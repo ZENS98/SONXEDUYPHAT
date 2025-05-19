@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(#2b97a9, #2b97a9), url(../img/hero-bg.jpg);
+    background:url(../img/1.mp4);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -749,7 +749,7 @@ a:focus {
 .service .service-icon {
     position: relative;
     width: 150px;
-    min-height: 150px;
+    min-height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
